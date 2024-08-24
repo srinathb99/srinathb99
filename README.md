@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on
+  - OpenSearch
+  - C++ implementations for complex data structures
+- 🌱 I’m currently learning about Linux in depth, particularly container and filesystem technologies
+- 💬 Ask me about Linux, C++ or any interesting algorithmic challenge
+- 📫 How to reach me: mail me at srinath.lampard@gmail.com, or DM at [srinathb99 - LinkedIn](https://www.linkedin.com/in/srinathb99/)
+- ⚡ Fun fact: I have created algorithmic challenges in the past, here's one - [Combine!](https://codedrills.io/contests/beta-contest-2/problems/combine-)
